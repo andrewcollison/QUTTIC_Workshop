@@ -1,4 +1,6 @@
 """
+QUTTIC Crash Course Python
+
 This will demonstrate a simple back testing
 algo that can be used for evaluation of possible
 trading stratergies.
@@ -15,7 +17,7 @@ import matplotlib.pyplot as plt
 plt.style.use('ggplot')
 
 ### Import our pair data 
-
+print('hello')
 
 ### Set the index to the time vector
 

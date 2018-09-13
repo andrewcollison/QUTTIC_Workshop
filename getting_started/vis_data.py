@@ -1,5 +1,5 @@
 """
-STIA Crash Course Python 
+QUTTIC Crash Course Python 
 
 This file will be the main document
 	- Here we will call our indicator functions
@@ -16,7 +16,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 ## Load the data into a dataframe object named "df" using pd.read_csv()
-
+print('hello')
 
 ## Call our indicator functions
 # Calculate 50 day moving average

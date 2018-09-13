@@ -1,5 +1,5 @@
 """
-STIA Crash Course Python 
+QUTIC Crash Course Python 
 
 This file will contain the classes and functions
 used to calculate the indicators.
@@ -11,7 +11,7 @@ import pandas as pd
 import numpy as np
 
 # Load the data into a pandas data frame
-
+print('hello')
 
 ## Create the class to hold the functions
 
