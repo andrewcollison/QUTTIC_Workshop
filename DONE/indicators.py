@@ -1,5 +1,5 @@
 """
-STIA Crash Course Python 
+QUTTIC Crash Course Python 
 
 This file will contain the classes and functions
 used to calculate the indicators.

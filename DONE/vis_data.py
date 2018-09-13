@@ -1,5 +1,5 @@
 """
-STIA Crash Course Python 
+QUTTIC Crash Course Python
 
 This file will be the main document
 	- Here we will call our indicator functions

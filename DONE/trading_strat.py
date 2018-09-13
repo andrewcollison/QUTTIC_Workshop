@@ -1,4 +1,6 @@
 """
+QUTTIC Crash Course Python
+
 This will demonstrate a simple back testing
 algo that can be used for evaluation of possible
 trading stratergies.
