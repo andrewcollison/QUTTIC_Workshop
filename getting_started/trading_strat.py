@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 plt.style.use('ggplot')
 
 ### Import our pair data 
-print('hello')
+
 
 ### Set the index to the time vector
 
