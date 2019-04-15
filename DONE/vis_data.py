@@ -32,5 +32,6 @@ plt.ylabel('Price')
 plt.show()
 
 
+
 #### Time pending: implement a simple trading algo using control structure
 

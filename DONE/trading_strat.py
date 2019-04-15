@@ -30,7 +30,6 @@ data = indicators.moving_average(data, 200)
 data = data.dropna(axis=0, how='any')
 print(data)
 
-
 ### Starting portfolio param
 data["Regime"] = 0
 data["Profit"] = 0
